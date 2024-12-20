@@ -1,0 +1,6 @@
+#openai  #llm
+ollama #llm
+streamlit #framework userinterfaces
+pandas #data preprocessing
+loguru # logging and monitoring
+python-dotenv #save keys
